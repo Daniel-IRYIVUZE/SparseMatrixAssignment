@@ -1,4 +1,4 @@
-## Data Structures and Algorithms for Engineers Assignment: Sparse Matrix
+## Data Structures and Algorithms Assignment: Sparse Matrix
 
 ### While working on this assignment, I used JavaScript programming language to solve this task 
 
